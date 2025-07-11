@@ -1,0 +1,32 @@
+﻿"Mental Health Eligibility & Benefits"
+"Patient Name",
+DOB,
+"Policy No.",
+"Insurance Name",
+"Insurance PH:",
+Eligibility
+"Effective Date",
+"Plan type",
+"Referral required?",
+"Benefits Break down"
+,Total,Accumulated
+"Individual Deductible",,
+"Family Deductible",,
+"Individual Out-of-Pocket",,
+"Family Out-of-Pocket",,
+"Copay Break down"
+"COPAY (Office Visit)",
+"COPAY (TeleHealth)",
+"Coinsurance Break down"
+,"Before deductible","After deductible"
+"Coinsurance (Office Visit)",,
+"Coinsurance (TeleHealth)",,
+"Provider Network Status",
+"Is this patient covered?",
+"Covered as?",
+"Telehealth covered ?",
+"Transaction details"
+"Rep Name",
+"Transaction ID/Reference No.",
+Date,
+"Additional Notes:",
